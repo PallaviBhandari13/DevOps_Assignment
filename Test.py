@@ -1,6 +1,5 @@
 <html> 
 <head> 
-hi
     <title>Real World Automation</title> 
 </head> 
 <body style="background-color:cyan;">
@@ -8,3 +7,4 @@ hi
     <h2>This is my Automated Project.</h2> 
     <h3>DevOps is really interesting.</h3> 
 </body> 
+</html>
